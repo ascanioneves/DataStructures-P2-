@@ -15,8 +15,8 @@ Adjacency List versus Adjacency Matrix
 
 We have the following ADT:
 add_egde() -> add an edge to graph
-dfs() -> searching function of graph (Depth First Search)
-bfs() -> searching function of graph (Breadth First Search)
+dfs() -> searching graph algorithm (Depth First Search)
+bfs() -> searching graph algorithm (Breadth First Search)
 
 */
 
