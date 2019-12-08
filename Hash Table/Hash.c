@@ -3,7 +3,7 @@
 
 // ----------- Guide ----------- : //
 //Hash table is a Data Structure which we can put elements in a table ( Key -> Value )
-//can we find elements in O(1) with the Hash Table?! Yes, we can. Because the elements are indexed.
+//can We find elements in O(1) with the Hash Table?! Yes, we can. Because the elements are indexed.
 
 //We have the following ADT:
 //put() -> put an element in table
